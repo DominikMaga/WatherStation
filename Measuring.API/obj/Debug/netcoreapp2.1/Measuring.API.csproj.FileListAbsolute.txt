@@ -1,0 +1,14 @@
+C:\Users\domin\Desktop\Measuring.API\bin\Debug\netcoreapp2.1\Measuring.API.deps.json
+C:\Users\domin\Desktop\Measuring.API\bin\Debug\netcoreapp2.1\Measuring.API.runtimeconfig.json
+C:\Users\domin\Desktop\Measuring.API\bin\Debug\netcoreapp2.1\Measuring.API.runtimeconfig.dev.json
+C:\Users\domin\Desktop\Measuring.API\bin\Debug\netcoreapp2.1\Measuring.API.dll
+C:\Users\domin\Desktop\Measuring.API\bin\Debug\netcoreapp2.1\Measuring.API.pdb
+C:\Users\domin\Desktop\Measuring.API\obj\Debug\netcoreapp2.1\Measuring.API.csprojAssemblyReference.cache
+C:\Users\domin\Desktop\Measuring.API\obj\Debug\netcoreapp2.1\Measuring.API.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\Measuring.API\obj\Debug\netcoreapp2.1\Measuring.API.RazorAssemblyInfo.cache
+C:\Users\domin\Desktop\Measuring.API\obj\Debug\netcoreapp2.1\Measuring.API.RazorAssemblyInfo.cs
+C:\Users\domin\Desktop\Measuring.API\obj\Debug\netcoreapp2.1\Measuring.API.AssemblyInfoInputs.cache
+C:\Users\domin\Desktop\Measuring.API\obj\Debug\netcoreapp2.1\Measuring.API.AssemblyInfo.cs
+C:\Users\domin\Desktop\Measuring.API\obj\Debug\netcoreapp2.1\Measuring.API.RazorTargetAssemblyInfo.cache
+C:\Users\domin\Desktop\Measuring.API\obj\Debug\netcoreapp2.1\Measuring.API.dll
+C:\Users\domin\Desktop\Measuring.API\obj\Debug\netcoreapp2.1\Measuring.API.pdb

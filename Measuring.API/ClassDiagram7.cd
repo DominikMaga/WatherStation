@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Measuring.API.Controllers.MeasureController">
+    <Position X="1.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Controllers\MeasureController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Measuring.API.Data.DataContext">
+    <Position X="5.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAMAAAAAAAAAAAAAAAAAEBAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\DataContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Measuring.API.Data.MeasureRepository">
+    <Position X="5.5" Y="4.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAFAAAAAAAAAAQAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\MeasureRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Measuring.API.Dtos.ShieldConfigurationDto">
+    <Position X="9.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dtos\ShieldConfigurationDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Measuring.API.Dtos.SingleMeasuredDto">
+    <Position X="9" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Dtos\SingleMeasuredDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Measuring.API.Migrations.Initial">
+    <Position X="9" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20190102185641_Initial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Measuring.API.Models.MeasuredValue">
+    <Position X="14.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAQAAQAAAAAAAAAAAAAAAAAAAAAAAAAgAAgAAAA=</HashCode>
+      <FileName>Models\MeasuredValue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Measuring.API.Models.Sensor">
+    <Position X="12.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIIAAAAAEAAAAAAAAAAAQIAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Sensor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Measuring.API.Models.Shield">
+    <Position X="13.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAABIAAAAAAAAAAAIAAAQAIAgAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Shield.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Measuring.API.Models.ShieldConfiguration">
+    <Position X="13.5" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAEAAAAAAAAAAAAAAEAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ShieldConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Measuring.API.Program">
+    <Position X="1.75" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Measuring.API.Startup">
+    <Position X="1.5" Y="5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAgAAACAAAAAA=</HashCode>
+      <FileName>Startup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Measuring.API.Migrations.DataContextModelSnapshot" Collapsed="true">
+    <Position X="8.25" Y="4" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Migrations\DataContextModelSnapshot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Measuring.API.Data.IMeasureRepository">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\IMeasureRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
